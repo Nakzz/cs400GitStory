@@ -1,2 +1,6 @@
 Once upon a time there was a programmer named Vincent. Vincent loved using linux and his favourite editor was VIM. 
 Linux was Vincents favorite OS because it was free and open source. He used it for everything!
+
+Since he loved programming so much, he decided to take CS300 at UW Madison to see if he could perfect P2. He used his favorite editor VIM and created an awesome program for BST and AVL.
+
+
