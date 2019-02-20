@@ -3,4 +3,5 @@ Linux was Vincents favorite OS because it was free and open source. He used it f
 
 Since he loved programming so much, he decided to take CS300 at UW Madison to see if he could perfect P2. He used his favorite editor VIM and created an awesome program for BST and AVL.
 
-
+There was only one problem. When vincent wanted to test his BST, he got an infinite loop.
+He was up for days trying to figure out this bug but couldn't get anywhere.
