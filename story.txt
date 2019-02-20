@@ -5,3 +5,5 @@ Since he loved programming so much, he decided to take CS300 at UW Madison to se
 
 There was only one problem. When vincent wanted to test his BST, he got an infinite loop.
 He was up for days trying to figure out this bug but couldn't get anywhere.
+
+Then fought to get out form the loop and figured out that his recursive method never terminated. The end. 
